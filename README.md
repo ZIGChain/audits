@@ -1,6 +1,6 @@
-# ZIGChain Public Audits
+# ZIG Chain Public Audits
 
-Public audits of ZIGChain.
+Public audits of ZIG Chain.
 
 | Project                                   | Date       | Auditor | Title                                                                                                   |
 |-------------------------------------------|------------|---------|---------------------------------------------------------------------------------------------------------|
@@ -8,3 +8,4 @@ Public audits of ZIGChain.
 | [Reward Contract](audits/reward_contract) | 2025-11-11 | Oak     | [ZIGChain Reward Contract](audits/reward_contract/2025-11-11_Audit_Report_ZIGChain_Reward_Contract.pdf) |
 | [ZIGChain Update](audits/zigchain)        | 2025-12-19 | Oak     | [ZIGChain Update Audit](audits/zigchain/2025-12-19_Audit_Report_ZIGChain_Update.pdf)                    |
 | [ZIGChain v4.0.0](audits/zigchain)        | 2026-05-12 | Oak     | [ZIGChain Update Audit](audits/zigchain/2026-05-12_Audit_Report_ZIGChain_v4.pdf)                        |
+| [ZIG Chain v5](audits/zigchain)           | 2026-10-05 | Oak     | [ZIG Chain v5 Security Audit](audits/zigchain/2026-10-05_Audit_Report_ZIGChain_v5_v2.0.pdf)             |
