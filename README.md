@@ -9,3 +9,4 @@ Public audits of ZIG Chain.
 | [ZIGChain Update](audits/zigchain)        | 2025-12-19 | Oak     | [ZIGChain Update Audit](audits/zigchain/2025-12-19_Audit_Report_ZIGChain_Update.pdf)                    |
 | [ZIGChain v4.0.0](audits/zigchain)        | 2026-05-12 | Oak     | [ZIGChain Update Audit](audits/zigchain/2026-05-12_Audit_Report_ZIGChain_v4.pdf)                        |
 | [ZIG Chain v5](audits/zigchain)           | 2026-10-05 | Oak     | [ZIG Chain v5 Security Audit](audits/zigchain/2026-10-05_Audit_Report_ZIGChain_v5_v2.0.pdf)             |
+| [ZIG Chain v6](audits/zigchain)           | 2026-11-26 | Oak     | [ZIG Chain v6 Security Audit](audits/zigchain/2026-11-26_Audit_Report_ZIGChain_v6.pdf)                  |
